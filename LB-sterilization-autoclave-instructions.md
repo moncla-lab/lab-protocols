@@ -1,6 +1,6 @@
-## How to Use the Autoclave & LB sterilization protocol
+### How to Use the Autoclave & LB sterilization protocol
 These instructions detail the use of the autoclave in Hill Pavilion (Floor 3) and directions for LB sterilization before growing *E.coli* in liquid culture.
-   Materials:
+  # Materials:
     - Secondary container (nalgene or polypropylene)
     - Cell culture flask
     - LB
@@ -18,13 +18,13 @@ Condiserations:
  - A sensor strip is used to ensure the autoclave cycle runs properly. This sensor strip can be read a bit like a thermometer: a portion of the strip will fill in once the sterilization is complete, and proper sterilization has been achieved once the fill line has been passed.
  - Antibiotics are sensitive to heat, and will denature and deactivate if they are added to material that is too hot. Antibiotics should therefore NOT be added to LB prior to autoclaving. Once LB has been autoclaved, the LB *must* be room temperature prior to the addition of antibiotic.
 
-# Directions:
-At the lab bench:
+## Directions:
+# At the lab bench:
  1. Using a serological pipet, prepare your LB to the amount needed for inoculation to the cell culture flask. For example, if you need 100mL of LB for your inoculation, you should use at least a 500mL flask.
  2. Cover the mouth of the flask with aluminum foil and use a strip of autoclave tape to tape down the aluminum foil.
  3. Place the cell culture flask in the secondary container.
  4. Attach a stericycle sensor to the secondary container.
-At the autoclave:
+# At the autoclave:
  1. Open autoclave door by pulling down and place the secondary container on the metal rack inside.
  2. Close the door by pushing the handle all the way up.
  3. On the autoclave key pad wait for "Ready" light.
