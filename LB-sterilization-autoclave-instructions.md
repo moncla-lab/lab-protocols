@@ -1,6 +1,6 @@
-### How to Use the Autoclave & LB sterilization protocol
+# How to Use the Autoclave & LB sterilization protocol
 These instructions detail the use of the autoclave in Hill Pavilion (Floor 3) and directions for LB sterilization before growing *E.coli* in liquid culture.
-  # Materials:
+  ## Materials:
     - Secondary container (nalgene or polypropylene)
     - Cell culture flask
     - LB
@@ -19,20 +19,20 @@ Condiserations:
  - Antibiotics are sensitive to heat, and will denature and deactivate if they are added to material that is too hot. Antibiotics should therefore NOT be added to LB prior to autoclaving. Once LB has been autoclaved, the LB *must* be room temperature prior to the addition of antibiotic.
 
 ## Directions:
-# At the lab bench:
+### At the lab bench:
  1. Using a serological pipet, prepare your LB to the amount needed for inoculation to the cell culture flask. For example, if you need 100mL of LB for your inoculation, you should use at least a 500mL flask.
  2. Cover the mouth of the flask with aluminum foil and use a strip of autoclave tape to tape down the aluminum foil.
  3. Place the cell culture flask in the secondary container.
  4. Attach a stericycle sensor to the secondary container.
-# At the autoclave:
+### At the autoclave:
  1. Open autoclave door by pulling down and place the secondary container on the metal rack inside.
  2. Close the door by pushing the handle all the way up.
  3. On the autoclave key pad wait for "Ready" light.
  4. Press Cycle 3: "Liquid 30" and listen for an audible "click". The "click" signifies the autoclave door has locked to begin the cycle. "Liquid" is meant for autoclaving liquids, where as "30" denotes that number of minutes in the cycle.
  5. Upon completion of the Liquid 30 cycle, retrieve the secondary container from the autoclave. Allows the flasks and LB to cool to room temeprature before proceeding with addition of ampicillin and inoculation of *E.coli*.
 
-# Notes on antibiotic sterilization:
+## Notes on antibiotic sterilization:
 Antibiotics should be sterilized prior to addition to the LB media. Antibiotics can be purchased as a powder or as a pre-sterilized/filtered liquid. If purchasing as a powder, choose a crystalline powder to aid in dissolution. Once the antibiotic has been reconstituted in water, filter it using a syringe to sterilize, then aliquot into small volumes and freeze. Our lab will be unlikely to require large volumes of antibiotics. Therefore, it is likely easier and more logical to purchase pre-filtered, liquid antibiotic.
 
-#Glassware cleaning:
+## Glassware cleaning:
 Following culture, inactivate bacteria by adding enough bleach into the culture to constitute a 10% bleach solution. Leave for at least 15 minutes, then rinse in the sink with the water running. To clean glassware, wash with non-residue soap (Dawn or a lab soap) and a brush, and rinse 3 times with distilled water.
