@@ -25,9 +25,10 @@ New *in-vitro* transcripts are prepared for use as standards in qRT-PCR assays. 
 ## Protocol:
   ### Plasmid Digest
    1. Digest ~2ug in a 30uL reaction. Calculate volume needed for 2ug according to concentration of starting plasmid. Digest with the appropriate enzyme (BamHI for SIV plasmid p239 gag_Lifson, HindIII for ZIKV plasmid 700-1500 #3302-5, etc.) Example reactions:
-- 2ug = 2000ng
-- (833 ng/uL)(V1) = 2000ng
-- V1 = (2000ng/833ng/uL) = 2.40096 uL
+```math
+2ug = 2000ng
+(833 ng/uL)(V1) = 2000ng
+V1 = (2000ng/833ng/uL) = 2.40096 uL
 - MP:
 - 748 ng/uL * V1 = 2000 ng
 - V1 = (2000ng/748ng/uL) = 2.67 uL
